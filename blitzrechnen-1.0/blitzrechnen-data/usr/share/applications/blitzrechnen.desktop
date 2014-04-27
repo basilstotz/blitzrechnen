@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=Hochstrasser
-Comment=Neue Wege im Sprachunterricht
-Exec=/usr/share/bin/hochstrasser.sh
+Name=Blitzrechnen
+Comment=Mathematik lernen und üben
+Exec=/usr/share/bin/blitzrechnen
 Terminal=false
 Type=Application
-Icon=Hochstrasser.png
+Icon=blitzrechnen.png
 Categories=Application;Education;
