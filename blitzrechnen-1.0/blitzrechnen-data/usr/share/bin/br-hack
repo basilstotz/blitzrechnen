@@ -1,5 +1,15 @@
 #!/bin/sh
 
+if ! test -d /var/local/nutzerdaten; then
+  mkdir -p /var/local/nutzerdaten
+  chmod --reference /tmp /var/local/nutzerdaten
+fi
 
+if test -d /var/local/nutzerdaten; then
+  if ! mount|grep -q /var/local/nutzerdaten; then
+     mount --bind /var/local/nutzerdaten /usr/share/prop/blitzrechnen/nutzerdaten
+  fi
+  chmod -R a+rw /var/local/nutzerdaten 
+fi
 
 exit
