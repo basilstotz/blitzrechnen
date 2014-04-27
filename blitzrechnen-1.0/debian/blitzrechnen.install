@@ -1,0 +1,4 @@
+./blitzrechnen-data/usr/share/prop/blitzrechnen ./usr/share/prop/
+./blitzrechnen-data/usr/share/applications/*.desktop ./usr/share/applications/
+./blitzrechnen-data/usr/share/pixmaps/* ./usr/share/pixmaps/
+./blitzrechnen-data/usr/share/bin/* ./usr/share/bin/

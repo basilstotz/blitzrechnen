@@ -1,0 +1,7 @@
+#!/bin/sh
+
+/usr/share/bin/br-hack
+
+wine /usr/share/prop/blitzrechnen/blitzrechnen.exe
+
+exit
