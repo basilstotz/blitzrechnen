@@ -1,12 +1,10 @@
 #!/bin/sh
 
-
-
 if test -f /usr/share/prop/blitzrechnen/blitzrechnen.exe; then
   /usr/share/bin/br-hack
   wine /usr/share/prop/blitzrechnen/blitzrechnen.exe
 else
-  evince /usr/share/prop/blitzrechnen/nopapp.pdf
+  evince /usr/share/prop/blitzrechnen/noapp.pdf
 fi
 
 exit
