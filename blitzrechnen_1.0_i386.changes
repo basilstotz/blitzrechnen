@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 27 Apr 2014 08:45:31 +0200
+Source: blitzrechnen
+Binary: blitzrechnen
+Architecture: source all
+Version: 1.0
+Distribution: unstable
+Urgency: low
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Basil Stotz <stotz@amxa.ch>
+Description: 
+ blitzrechnen - A mathematics teaching app
+Changes: 
+ blitzrechnen (1.0) unstable; urgency=low
+ .
+   * Initial release
+Checksums-Sha1: 
+ dae990ce383c7cad0f67527f9a191e92eb2d34dc 558 blitzrechnen_1.0.dsc
+ d3b171698bd37e8354a21dffd63642f3cd0fa59c 51304 blitzrechnen_1.0.tar.gz
+ d4a9cc4db2e76bc7909c7f670273be46e7eabd67 51216 blitzrechnen_1.0_all.deb
+Checksums-Sha256: 
+ cf308c8fe7c05913874ca3391b560e92ca9a935837abf982d73d2afbe92540da 558 blitzrechnen_1.0.dsc
+ b399bf85c7122d44a28e832e5cca4c03053e02aa11a1f8fcfd3207345b5aa051 51304 blitzrechnen_1.0.tar.gz
+ 3f15d4dd06dae778e75fb3c7e8da3e477bfbfcb40d0a21123b69c9f5f2eb7e7c 51216 blitzrechnen_1.0_all.deb
+Files: 
+ 992b42b6ab6c811fc6f0978deec820c6 558 unknown extra blitzrechnen_1.0.dsc
+ c9de3433cc65e66caeb6b9445cc00a81 51304 unknown extra blitzrechnen_1.0.tar.gz
+ 552ff43d83ab3374c8acb245a41fe90a 51216 unknown extra blitzrechnen_1.0_all.deb
