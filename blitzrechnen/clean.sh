@@ -1,2 +1,2 @@
 #!/bin/sh
-rm ../luegeloselaese_1.0*
+rm ../blitzrechnen_1.0*
