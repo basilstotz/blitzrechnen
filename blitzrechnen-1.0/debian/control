@@ -12,5 +12,7 @@ Package: blitzrechnen
 Architecture: all
 Depends: wine,${misc:Depends}
 Description: A mathematics teaching app
- A mathematics teaching app
+ A mathematics teaching app for primary schools.
+ This programm is property of Klett Verlag.
+
 
