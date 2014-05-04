@@ -1,10 +1,12 @@
 #!/bin/sh
 
-if test -f /usr/share/prop/blitzrechnen/blitzrechnen.exe; then
-  #/usr/share/bin/br-hack
-  wine /usr/share/prop/blitzrechnen/blitzrechnen.exe
+PFAD="/usr/share/prop/blitzrechnen"
+
+if test -f $PFAD/blitzrechnen.exe; then
+  /usr/share/bin/br-hack
+  wine $PFAD/blitzrechnen.exe
 else
-  evince /usr/share/prop/blitzrechnen/noapp.pdf
+  evince -f $PFAD/noapp.pdf
 fi
 
 exit
