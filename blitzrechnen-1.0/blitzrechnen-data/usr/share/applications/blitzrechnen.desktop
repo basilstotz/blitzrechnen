@@ -6,3 +6,8 @@ Terminal=false
 Type=Application
 Icon=blitzrechnen.png
 Categories=Application;Education;
+Actions=Handbuch
+
+[Desktop Action Handbuch]
+Exec=/usr/share/bin/blitzrechnen handbuch
+Name=Handbuch

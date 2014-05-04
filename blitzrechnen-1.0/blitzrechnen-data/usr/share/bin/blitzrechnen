@@ -3,8 +3,15 @@
 PFAD="/usr/share/prop/blitzrechnen"
 
 if test -f $PFAD/blitzrechnen.exe; then
-  /usr/share/bin/br-hack
-  wine $PFAD/blitzrechnen.exe
+  case "$1" in
+    handbuch)
+      evince -s $PFAD/handbuch.pdf
+    ;;
+    *)
+      /usr/share/bin/br-hack
+      wine $PFAD/blitzrechnen.exe
+    ;;
+  esac
 else
   evince -s $PFAD/noapp.pdf
 fi
