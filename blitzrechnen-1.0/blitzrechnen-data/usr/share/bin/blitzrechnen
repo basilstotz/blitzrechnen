@@ -6,7 +6,7 @@ if test -f $PFAD/blitzrechnen.exe; then
   /usr/share/bin/br-hack
   wine $PFAD/blitzrechnen.exe
 else
-  evince -f $PFAD/noapp.pdf
+  evince -s $PFAD/noapp.pdf
 fi
 
 exit
