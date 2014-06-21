@@ -2,4 +2,4 @@
 ./blitzrechnen-data/usr/share/applications/*.desktop ./usr/share/applications/
 ./blitzrechnen-data/usr/share/pixmaps/* ./usr/share/pixmaps/
 ./blitzrechnen-data/usr/share/bin/* ./usr/share/bin/
-./blitzrechnen-data/var/lib/blitzrechnen ./var/lib/
+./blitzrechnen-data/var/lib/blitzrechnen/nutzerdaten ./var/lib/
