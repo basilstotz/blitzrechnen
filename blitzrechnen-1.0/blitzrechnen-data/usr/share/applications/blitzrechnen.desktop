@@ -5,6 +5,7 @@ Exec=/usr/share/bin/blitzrechnen
 Terminal=false
 Type=Application
 Icon=blitzrechnen.png
+Keywords="lp21 mathematik zahl variable"
 Categories=Application;Education;
 Actions=Handbuch
 
