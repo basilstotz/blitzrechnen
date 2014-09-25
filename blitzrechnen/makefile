@@ -1,5 +1,5 @@
 TARGETS = init build clean
-NAME = "blitzrechen"
+NAME = "blitzrechnen"
 
 .PHONY: ${TARGETS}
 .PHONY: help
