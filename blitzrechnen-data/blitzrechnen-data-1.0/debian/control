@@ -1,14 +1,14 @@
-Source: blitzrechen-data
+Source: blitzrechnen-data
 Section: unknown
 Priority: extra
 Maintainer: Basil Stotz <stotz@amxa.ch>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.2
 Homepage: <insert the upstream URL, if relevant>
-#Vcs-Git: git://git.debian.org/collab-maint/blitzrechen-data.git
-#Vcs-Browser: http://git.debian.org/?p=collab-maint/blitzrechen-data.git;a=summary
+#Vcs-Git: git://git.debian.org/collab-maint/blitzrechnen-data.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/blitzrechnen-data.git;a=summary
 
-Package: blitzrechen-data
+Package: blitzrechnen-data
 Architecture: all
 Depends: ${misc:Depends}
 Description: <insert up to 60 chars description>
