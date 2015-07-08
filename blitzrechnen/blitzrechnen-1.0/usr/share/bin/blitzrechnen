@@ -8,7 +8,7 @@ if test -f $PFAD/blitzrechnen.exe; then
       evince -s $PFAD/handbuch.pdf
     ;;
     *)
-      # /usr/share/bin/br-hack
+      /usr/share/bin/br-hack
       wine $PFAD/blitzrechnen.exe
     ;;
   esac
