@@ -19,10 +19,6 @@ set -e
 
 case "$1" in
     remove|upgrade|deconfigure)
-      if mount|grep -q /usr/share/prop/blitzrechnen/nutzerdaten; then
-         umount -f /usr/share/prop/blitzrechnen/nutzerdaten
-      fi
-      rm -r /usr/share/prop/blitzrechnen/nutzerdaten
     ;;
 
     failed-upgrade)

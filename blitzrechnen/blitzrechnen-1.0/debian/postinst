@@ -20,7 +20,7 @@ set -e
 
 case "$1" in
     configure)
-       chmod u+s /usr/share/bin/br-hack
+       chmod a+s /usr/share/bin/br-hack
     ;;
 
     abort-upgrade|abort-remove|abort-deconfigure)
