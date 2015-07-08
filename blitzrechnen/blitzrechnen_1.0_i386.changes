@@ -15,14 +15,14 @@ Changes:
  .
    * Initial release
 Checksums-Sha1: 
- be52f7da65aa838020bde3d577d86ae846cd57e1 558 blitzrechnen_1.0.dsc
- d4c9d0fd463de7ed2a3619f559a1dbe71834ff04 56281 blitzrechnen_1.0.tar.gz
- 530c96fbfa0b345e8b4f33b6d114f843fae1dde3 55656 blitzrechnen_1.0_all.deb
+ 95f15316bc61fcc0d1176ddfef2b29f7cd4a970e 558 blitzrechnen_1.0.dsc
+ 31e201f0370cb833a5dc69dc13ec3c203c4fecba 56424 blitzrechnen_1.0.tar.gz
+ 4898d9a818031c5e89f1a0b97e5204bf8957e406 55660 blitzrechnen_1.0_all.deb
 Checksums-Sha256: 
- c43d3668c4cd99b5d43ee3e9508120b217513360b2c3c916fb570161561f062a 558 blitzrechnen_1.0.dsc
- 94f1f83af6679d54564a368775e012a1f726ae320ac3f8612c289883696803f8 56281 blitzrechnen_1.0.tar.gz
- da20f3afe6cfc5b16814a461688bdbccb12f031b508de7cd42bfc17a25068d4d 55656 blitzrechnen_1.0_all.deb
+ 1d4e05d96e7a44f1165f5eab8263448162b7134edb3a51b856a0e89e0fe29736 558 blitzrechnen_1.0.dsc
+ 6330df837d7d8eadd82c535e91f894d4083432b624875128be28966a4f1550d1 56424 blitzrechnen_1.0.tar.gz
+ 90bc2fedb9bd45801bb2fa3c0a411e9b341ac27286a1a68f593cd1d7f3ac59b3 55660 blitzrechnen_1.0_all.deb
 Files: 
- ae63c92ee9b58bdcea29cd1f28b3ee54 558 unknown extra blitzrechnen_1.0.dsc
- 0252f9bb6d39209d4b6d08de9f85d26c 56281 unknown extra blitzrechnen_1.0.tar.gz
- 932cfac4868755a10b5130e6aa733423 55656 unknown extra blitzrechnen_1.0_all.deb
+ e6db47cfde49c448969edc932647a652 558 unknown extra blitzrechnen_1.0.dsc
+ acac0785473004a7610be65eaf964943 56424 unknown extra blitzrechnen_1.0.tar.gz
+ 60d4c4723b58d46b2cf82e263e3812fa 55660 unknown extra blitzrechnen_1.0_all.deb

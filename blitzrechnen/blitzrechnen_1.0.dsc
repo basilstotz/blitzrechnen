@@ -10,8 +10,8 @@ Build-Depends: debhelper (>= 8.0.0)
 Package-List: 
  blitzrechnen deb unknown extra
 Checksums-Sha1: 
- d4c9d0fd463de7ed2a3619f559a1dbe71834ff04 56281 blitzrechnen_1.0.tar.gz
+ 31e201f0370cb833a5dc69dc13ec3c203c4fecba 56424 blitzrechnen_1.0.tar.gz
 Checksums-Sha256: 
- 94f1f83af6679d54564a368775e012a1f726ae320ac3f8612c289883696803f8 56281 blitzrechnen_1.0.tar.gz
+ 6330df837d7d8eadd82c535e91f894d4083432b624875128be28966a4f1550d1 56424 blitzrechnen_1.0.tar.gz
 Files: 
- 0252f9bb6d39209d4b6d08de9f85d26c 56281 blitzrechnen_1.0.tar.gz
+ acac0785473004a7610be65eaf964943 56424 blitzrechnen_1.0.tar.gz
