@@ -1,6 +1,6 @@
 #!/bin/sh
 
-PFAD="/usr/share/prop/blitzrechnen"
+PFAD="/opt/blitzrechnen"
 
 if test -f $PFAD/blitzrechnen.exe; then
   case "$1" in
